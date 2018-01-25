@@ -1,5 +1,10 @@
 Primer línea de primer edición.
 <Cantidad masiva de código funcional>
 Avance en una nueva rama
-%
-Buen avance en la rama master
+
+
+Avances mezclados para un futuro mejor
+
+
+
+
